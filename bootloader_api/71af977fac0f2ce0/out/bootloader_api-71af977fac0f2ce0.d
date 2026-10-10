@@ -1,0 +1,13 @@
+C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/71af977fac0f2ce0\out\bootloader_api-71af977fac0f2ce0.d: C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\lib.rs C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\config.rs C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\info.rs C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/concat.rs C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/version_info.rs
+
+C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/71af977fac0f2ce0\out\libbootloader_api-71af977fac0f2ce0.rlib: C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\lib.rs C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\config.rs C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\info.rs C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/concat.rs C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/version_info.rs
+
+C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/71af977fac0f2ce0\out\libbootloader_api-71af977fac0f2ce0.rmeta: C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\lib.rs C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\config.rs C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\info.rs C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/concat.rs C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/version_info.rs
+
+C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\lib.rs:
+C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\config.rs:
+C:\Users\alexa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.17\src\info.rs:
+C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/concat.rs:
+C:\Users\alexa\OneDrive\Documents\Neo32\NeoOS\target\debug\build\bootloader_api/49e76feb2818507e\out/version_info.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\alexa\\OneDrive\\Documents\\Neo32\\NeoOS\\target\\debug\\build\\bootloader_api/49e76feb2818507e\\out
